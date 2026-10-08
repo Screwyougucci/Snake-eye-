@@ -152,3 +152,4 @@ func main() {
 	engine := NewSpecter(cfg)
 	engine.Start()
 }
+# remeber to change all the tagets and shit like that
